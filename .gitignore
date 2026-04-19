@@ -1,0 +1,32 @@
+# Build çıktıları
+bin
+obj
+
+# Visual Studio
+.vs
+.user
+.suo
+.userosscache
+.sln.docview
+
+# NuGet
+.nupkg
+packages
+project.lock.json
+
+# Publish
+publish
+PropertiesPublishProfiles
+
+# Log
+.log
+logs
+
+# Ortam ayarları (şifre, connection string gizle)
+appsettings.Development.json
+appsettings.Production.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -8,16 +8,11 @@ using System.Windows.Forms;
 
 namespace TAKSİT_TAKİP
 {
-    public partial class Form2 : Form
+    public partial class Form3 : Form
     {
-        public Form2()
+        public Form3()
         {
             InitializeComponent();
-        }
-
-        private void taksitYatırToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

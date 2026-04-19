@@ -28,12 +28,62 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form2";
+            menuStrip1 = new MenuStrip();
+            anaSayfaToolStripMenuItem = new ToolStripMenuItem();
+            taksitYatırToolStripMenuItem = new ToolStripMenuItem();
+            çıkışToolStripMenuItem = new ToolStripMenuItem();
+            menuStrip1.SuspendLayout();
+            SuspendLayout();
+            // 
+            // menuStrip1
+            // 
+            menuStrip1.Items.AddRange(new ToolStripItem[] { anaSayfaToolStripMenuItem, taksitYatırToolStripMenuItem, çıkışToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(800, 24);
+            menuStrip1.TabIndex = 0;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // anaSayfaToolStripMenuItem
+            // 
+            anaSayfaToolStripMenuItem.Name = "anaSayfaToolStripMenuItem";
+            anaSayfaToolStripMenuItem.Size = new Size(71, 20);
+            anaSayfaToolStripMenuItem.Text = "Ana Sayfa";
+            // 
+            // taksitYatırToolStripMenuItem
+            // 
+            taksitYatırToolStripMenuItem.Name = "taksitYatırToolStripMenuItem";
+            taksitYatırToolStripMenuItem.Size = new Size(75, 20);
+            taksitYatırToolStripMenuItem.Text = "Taksit Yatır";
+            taksitYatırToolStripMenuItem.Click += taksitYatırToolStripMenuItem_Click;
+            // 
+            // çıkışToolStripMenuItem
+            // 
+            çıkışToolStripMenuItem.Name = "çıkışToolStripMenuItem";
+            çıkışToolStripMenuItem.Size = new Size(44, 20);
+            çıkışToolStripMenuItem.Text = "Çıkış";
+            // 
+            // Form2
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
+            Name = "Form2";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Form2";
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem anaSayfaToolStripMenuItem;
+        private ToolStripMenuItem taksitYatırToolStripMenuItem;
+        private ToolStripMenuItem çıkışToolStripMenuItem;
     }
 }
