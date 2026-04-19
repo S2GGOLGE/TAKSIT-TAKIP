@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("017dbf69-1458-4b6e-ab77-310d973411c1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAKSİT TAKİP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e86749adcde7afadf3ee023337359b3c52c22f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAKSİT TAKİP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAKSİT TAKİP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,29 @@
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.exe
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.deps.json
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.runtimeconfig.json
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.pdb
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Form1.resources
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.csproj.GenerateResource.cache
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.GeneratedMSBuildEditorConfig.editorconfig
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.AssemblyInfoInputs.cache
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.AssemblyInfo.cs
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.csproj.CoreCompileInputs.cache
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.sourcelink.json
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\refint\TAKSİT TAKİP.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.pdb
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.genruntimeconfig.cache
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\ref\TAKSİT TAKİP.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.csproj.AssemblyReference.cache
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Form2.resources
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKS_T T.A488AEF6.Up2Date
