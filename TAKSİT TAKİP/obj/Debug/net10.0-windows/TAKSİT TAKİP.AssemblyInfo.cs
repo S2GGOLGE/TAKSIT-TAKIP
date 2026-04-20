@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAKSİT TAKİP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b0f1b50a573e657fde2991a3fe0d928573c45c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de9a75c92347cc02c6fe65f0ec014e84e007b66a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAKSİT TAKİP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAKSİT TAKİP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
