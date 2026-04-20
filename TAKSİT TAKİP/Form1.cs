@@ -77,7 +77,7 @@ namespace TAKSİT_TAKİP
             finally
             {
                 button1.Enabled = true;
-                button1.Text = "Giriş Yap";
+                button1.Text = "Giriş Yapılıyor";
             }
         }
 

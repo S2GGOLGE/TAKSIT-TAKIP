@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|y:\\taks\u0130t tak\u0130p\\taks\u0130t tak\u0130p\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|Y:\\TAKS\u0130T TAK\u0130P\\taks\u0130t tak\u0130p\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|y:\\taks\u0130t tak\u0130p\\taks\u0130t tak\u0130p\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.cs",
               "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Form2.cs",
               "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Form2.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Tasar\u0131m]",
               "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Form2.cs",
               "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Form2.cs",
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Form1.cs",
               "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Form1.cs",
               "RelativeToolTip": "TAKS\u0130T TAK\u0130P\\Form1.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFUAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T20:09:12.456Z",
               "EditorCaption": ""
