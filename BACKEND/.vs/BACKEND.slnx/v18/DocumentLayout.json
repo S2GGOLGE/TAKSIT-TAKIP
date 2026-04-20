@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE072AE8-7A5C-429D-A44C-283A2232A6F8}|BACKEND\\BACKEND.csproj|y:\\taks\u0130t tak\u0130p\\backend\\backend\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE072AE8-7A5C-429D-A44C-283A2232A6F8}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|y:\\taks\u0130t tak\u0130p\\backend\\backend\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE072AE8-7A5C-429D-A44C-283A2232A6F8}|BACKEND\\BACKEND.csproj|y:\\taks\u0130t tak\u0130p\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE072AE8-7A5C-429D-A44C-283A2232A6F8}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|y:\\taks\u0130t tak\u0130p\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "BACKEND\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:35:07.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T21:35:07.73Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "BACKEND\\Login.cs",
               "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\Login.cs",
               "RelativeToolTip": "BACKEND\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T21:35:04.95Z",
               "EditorCaption": ""

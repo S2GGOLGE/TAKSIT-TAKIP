@@ -50,7 +50,7 @@ namespace TAKSİT_TAKİP
 
                     // Ana formu aç
                     new Form2().Show();
-                    // this.Hide();
+                    this.Hide();
                 }
                 else
                 {
@@ -79,6 +79,12 @@ namespace TAKSİT_TAKİP
                 button1.Enabled = true;
                 button1.Text = "Giriş Yap";
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Sistem Kapatılıyor","Sistem",MessageBoxButtons.OK, MessageBoxIcon.Information);
+            Application.Exit();
         }
     }
 }

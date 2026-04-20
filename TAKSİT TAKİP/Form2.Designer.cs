@@ -62,6 +62,7 @@
             çıkışToolStripMenuItem.Name = "çıkışToolStripMenuItem";
             çıkışToolStripMenuItem.Size = new Size(44, 20);
             çıkışToolStripMenuItem.Text = "Çıkış";
+            çıkışToolStripMenuItem.Click += çıkışToolStripMenuItem_Click;
             // 
             // Form2
             // 
