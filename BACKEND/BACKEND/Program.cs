@@ -1,4 +1,6 @@
 using BACKEND;
+using System.Net.Sockets;
+using System.Text;
 using TAKSIT_TAKIP_BACKEND;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -48,6 +50,7 @@ app.MapPost("/api/Kayıt", (KayıtRequest req) =>
 {
     if (req == null)
         return Results.BadRequest(new { mesaj = "Geçersiz istek" });
+
     taksit_kaydet.Date = req.Date;
     taksit_kaydet.Tutar = req.Tutar;
     taksit_kaydet.Açıklama = req.Açıklama;
@@ -58,7 +61,27 @@ app.MapPost("/api/Kayıt", (KayıtRequest req) =>
         ? Results.Ok(new { mesaj = "Taksit başarıyla kaydedildi" })
         : Results.BadRequest(new { mesaj = sonuc });
 });
+
 app.MapControllers();
+// HOME SERVER BAĞLANTISI
+try
+{
+    var homeClient = new TcpClient();
+    await homeClient.ConnectAsync("192.168.1.115", 8586);
+
+    // Tanıtım mesajı gönder
+    string tanitim = "TAKSIT TAKIP BACKEND";
+    byte[] data = Encoding.UTF8.GetBytes(tanitim);
+    NetworkStream stream = homeClient.GetStream();
+    await stream.WriteAsync(data, 0, data.Length);
+
+    Console.WriteLine("HOME SUNUCUYA BAĞLANDI ✅");
+}
+catch (Exception ex)
+{
+    Console.WriteLine("HOME BAĞLANTI HATASI: " + ex.Message);
+}
+
 app.Run();
 
 record LoginRequest(string Username, string Password);
