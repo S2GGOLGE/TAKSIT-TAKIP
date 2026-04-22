@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|y:\\taks\u0130t tak\u0130p\\backend\\backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|y:\\taks\u0130t tak\u0130p\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "BACKEND",
+              "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\BACKEND.csproj",
+              "RelativeDocumentMoniker": "BACKEND\\BACKEND.csproj",
+              "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\BACKEND.csproj",
+              "RelativeToolTip": "BACKEND\\BACKEND.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T14:10:59.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "taksit kaydet.cs",
               "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\taksit kaydet.cs",
               "RelativeDocumentMoniker": "BACKEND\\taksit kaydet.cs",
@@ -34,25 +50,24 @@
               "RelativeToolTip": "BACKEND\\taksit kaydet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T18:39:32.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T18:39:32.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\Program.cs",
               "RelativeDocumentMoniker": "BACKEND\\Program.cs",
               "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\Program.cs",
               "RelativeToolTip": "BACKEND\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T21:35:07.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cs",
               "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\Login.cs",
               "RelativeDocumentMoniker": "BACKEND\\Login.cs",
@@ -60,8 +75,7 @@
               "RelativeToolTip": "BACKEND\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:35:04.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T21:35:04.95Z"
             }
           ]
         }

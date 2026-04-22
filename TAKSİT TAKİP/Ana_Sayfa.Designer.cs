@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Ana_Sayfa));
             menuStrip1 = new MenuStrip();
             anaSayfaToolStripMenuItem = new ToolStripMenuItem();
             taksitYatırToolStripMenuItem = new ToolStripMenuItem();
@@ -70,6 +71,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(menuStrip1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             Name = "Ana_Sayfa";
             StartPosition = FormStartPosition.CenterScreen;
