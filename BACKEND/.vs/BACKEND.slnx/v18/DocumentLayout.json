@@ -34,8 +34,7 @@
               "RelativeToolTip": "BACKEND\\taksit kaydet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T18:39:32.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T18:39:32.891Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "BACKEND\\Program.cs",
               "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\BACKEND\\BACKEND\\Program.cs",
               "RelativeToolTip": "BACKEND\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T21:35:07.73Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "BACKEND\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:35:04.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T21:35:04.95Z"
             }
           ]
         }
