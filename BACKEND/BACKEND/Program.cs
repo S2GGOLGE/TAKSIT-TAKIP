@@ -1,3 +1,4 @@
+using BACKEND;
 using TAKSIT_TAKIP_BACKEND;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -43,7 +44,22 @@ app.MapPost("/api/login", (LoginRequest req) =>
     return Results.BadRequest(new { hata = sonuc });
 });
 
+app.MapPost("/api/Kayıt", (KayıtRequest req) =>
+{
+    if (req == null)
+        return Results.BadRequest(new { mesaj = "Geçersiz istek" });
+    taksit_kaydet.Date = req.Date;
+    taksit_kaydet.Tutar = req.Tutar;
+    taksit_kaydet.Açıklama = req.Açıklama;
+
+    string sonuc = new taksit_kaydet().Kayıt();
+
+    return sonuc == "OK"
+        ? Results.Ok(new { mesaj = "Taksit başarıyla kaydedildi" })
+        : Results.BadRequest(new { mesaj = sonuc });
+});
 app.MapControllers();
 app.Run();
 
 record LoginRequest(string Username, string Password);
+record KayıtRequest(string Date, Double Tutar, string Açıklama);

@@ -14,7 +14,7 @@ namespace TAKSİT_TAKİP
             textBox2.UseSystemPasswordChar = true;
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        private void radioButton1_CheckedChanged(object sender, EventArgs ex)
         {
             textBox2.UseSystemPasswordChar = !radioButton1.Checked;
         }
@@ -49,7 +49,7 @@ namespace TAKSİT_TAKİP
                         MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                     // Ana formu aç
-                    new Form2().Show();
+                    new Ana_Sayfa().Show();
                     this.Hide();
                 }
                 else

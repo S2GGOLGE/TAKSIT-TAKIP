@@ -1,6 +1,6 @@
 ﻿namespace TAKSİT_TAKİP
 {
-    partial class Form2
+    partial class Ana_Sayfa
     {
         /// <summary>
         /// Required designer variable.
@@ -64,16 +64,16 @@
             çıkışToolStripMenuItem.Text = "Çıkış";
             çıkışToolStripMenuItem.Click += çıkışToolStripMenuItem_Click;
             // 
-            // Form2
+            // Ana_Sayfa
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
-            Name = "Form2";
+            Name = "Ana_Sayfa";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form2";
+            Text = "Ana Sayfa";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);

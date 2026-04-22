@@ -8,22 +8,28 @@ using System.Windows.Forms;
 
 namespace TAKSİT_TAKİP
 {
-    public partial class Form2 : Form
+    public partial class Ana_Sayfa : Form
     {
-        public Form2()
+        public Ana_Sayfa()
         {
             InitializeComponent();
         }
 
         private void taksitYatırToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            new Form3().Show();
+            this.Hide();
         }
 
         private void çıkışToolStripMenuItem_Click(object sender, EventArgs e)
         {
             new Form1().Show();
             this.Hide();
+        }
+
+        private void anaSayfaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

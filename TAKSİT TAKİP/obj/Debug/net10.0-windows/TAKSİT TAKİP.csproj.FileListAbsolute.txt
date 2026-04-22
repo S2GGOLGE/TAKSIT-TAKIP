@@ -25,6 +25,6 @@ Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.csproj.AssemblyReference.cache
-Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Form2.resources
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKS_T T.A488AEF6.Up2Date
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Form3.resources
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Ana_Sayfa.resources
