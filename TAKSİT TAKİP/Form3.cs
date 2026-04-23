@@ -13,7 +13,7 @@ namespace TAKSİT_TAKİP
         }
 
         private static readonly HttpClient _http = new HttpClient();
-        private const string _apiUrl = "https://localhost:7026/api/Kayit";
+        private const string _apiUrl = "http://localhost:7026/api/Kayit";
 
         private void button1_Click(object sender, EventArgs e)
         {

@@ -6,7 +6,7 @@ namespace TAKSİT_TAKİP
     public partial class Login : Form
     {
         private static readonly HttpClient _http = new HttpClient();
-        private const string ApiUrl = "https://localhost:7026/api/login";
+        private const string ApiUrl = "http://localhost:7026/api/login";
 
         public Login()
         {
