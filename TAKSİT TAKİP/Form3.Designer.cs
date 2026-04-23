@@ -33,15 +33,15 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            maskedTextBox1 = new MaskedTextBox();
-            maskedTextBox2 = new MaskedTextBox();
-            maskedTextBox3 = new MaskedTextBox();
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
             button5 = new Button();
             button6 = new Button();
             dataGridView1 = new DataGridView();
+            textBox1 = new TextBox();
+            textBox2 = new TextBox();
+            richTextBox1 = new RichTextBox();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -82,30 +82,9 @@
             label3.TabIndex = 3;
             label3.Text = "Açıklama";
             // 
-            // maskedTextBox1
-            // 
-            maskedTextBox1.Location = new Point(92, 60);
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(100, 23);
-            maskedTextBox1.TabIndex = 4;
-            // 
-            // maskedTextBox2
-            // 
-            maskedTextBox2.Location = new Point(92, 97);
-            maskedTextBox2.Name = "maskedTextBox2";
-            maskedTextBox2.Size = new Size(100, 23);
-            maskedTextBox2.TabIndex = 5;
-            // 
-            // maskedTextBox3
-            // 
-            maskedTextBox3.Location = new Point(92, 145);
-            maskedTextBox3.Name = "maskedTextBox3";
-            maskedTextBox3.Size = new Size(100, 23);
-            maskedTextBox3.TabIndex = 6;
-            // 
             // button2
             // 
-            button2.Location = new Point(248, 39);
+            button2.Location = new Point(295, 42);
             button2.Name = "button2";
             button2.Size = new Size(75, 23);
             button2.TabIndex = 7;
@@ -115,7 +94,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(248, 68);
+            button3.Location = new Point(295, 71);
             button3.Name = "button3";
             button3.Size = new Size(75, 23);
             button3.TabIndex = 8;
@@ -124,7 +103,7 @@
             // 
             // button4
             // 
-            button4.Location = new Point(248, 97);
+            button4.Location = new Point(295, 100);
             button4.Name = "button4";
             button4.Size = new Size(75, 23);
             button4.TabIndex = 9;
@@ -133,7 +112,7 @@
             // 
             // button5
             // 
-            button5.Location = new Point(248, 126);
+            button5.Location = new Point(295, 129);
             button5.Name = "button5";
             button5.Size = new Size(75, 23);
             button5.TabIndex = 10;
@@ -142,7 +121,7 @@
             // 
             // button6
             // 
-            button6.Location = new Point(248, 155);
+            button6.Location = new Point(295, 158);
             button6.Name = "button6";
             button6.Size = new Size(75, 23);
             button6.TabIndex = 11;
@@ -157,20 +136,42 @@
             dataGridView1.Size = new Size(361, 338);
             dataGridView1.TabIndex = 12;
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(84, 43);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(100, 23);
+            textBox1.TabIndex = 13;
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(84, 97);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(100, 23);
+            textBox2.TabIndex = 14;
+            // 
+            // richTextBox1
+            // 
+            richTextBox1.Location = new Point(84, 142);
+            richTextBox1.Name = "richTextBox1";
+            richTextBox1.Size = new Size(177, 122);
+            richTextBox1.TabIndex = 15;
+            richTextBox1.Text = "";
+            // 
             // Form3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 415);
+            Controls.Add(richTextBox1);
+            Controls.Add(textBox2);
+            Controls.Add(textBox1);
             Controls.Add(dataGridView1);
             Controls.Add(button6);
             Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
-            Controls.Add(maskedTextBox3);
-            Controls.Add(maskedTextBox2);
-            Controls.Add(maskedTextBox1);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -189,14 +190,14 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private MaskedTextBox maskedTextBox1;
-        private MaskedTextBox maskedTextBox2;
-        private MaskedTextBox maskedTextBox3;
         private Button button2;
         private Button button3;
         private Button button4;
         private Button button5;
         private Button button6;
         private DataGridView dataGridView1;
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private RichTextBox richTextBox1;
     }
 }

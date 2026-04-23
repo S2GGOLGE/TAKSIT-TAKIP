@@ -3,7 +3,6 @@ Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.deps.j
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.runtimeconfig.json
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.dll
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\bin\Debug\net10.0-windows\TAKSİT TAKİP.pdb
-Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Form1.resources
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.csproj.GenerateResource.cache
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.GeneratedMSBuildEditorConfig.editorconfig
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.AssemblyInfoInputs.cache
@@ -28,3 +27,4 @@ Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT TAKİP.csproj
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKS_T T.A488AEF6.Up2Date
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Form3.resources
 Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Ana_Sayfa.resources
+Y:\TAKSİT TAKİP\TAKSİT TAKİP\obj\Debug\net10.0-windows\TAKSİT_TAKİP.Login.resources

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Y:\\TAKS\u0130T TAK\u0130P\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|y:\\taks\u0130t tak\u0130p\\taks\u0130t tak\u0130p\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|y:\\taks\u0130t tak\u0130p\\taks\u0130t tak\u0130p\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|y:\\taks\u0130t tak\u0130p\\taks\u0130t tak\u0130p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|y:\\taks\u0130t tak\u0130p\\taks\u0130t tak\u0130p\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|y:\\taks\u0130t tak\u0130p\\taks\u0130t tak\u0130p\\server-settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\server-settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|Y:\\TAKS\u0130T TAK\u0130P\\taks\u0130t tak\u0130p\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5ACF56-5859-0714-7E05-FB75E7E3154D}|TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P.csproj|solutionrelative:taks\u0130t tak\u0130p\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Program.cs",
-              "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Program.cs",
-              "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Program.cs",
-              "RelativeToolTip": "TAKS\u0130T TAK\u0130P\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Title": "Form3.cs",
+              "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Form3.cs",
+              "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Form3.cs",
+              "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Form3.cs*",
+              "RelativeToolTip": "TAKS\u0130T TAK\u0130P\\Form3.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwBgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T21:26:14.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Client.cs",
-              "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Client.cs",
-              "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Client.cs",
-              "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Client.cs",
-              "RelativeToolTip": "TAKS\u0130T TAK\u0130P\\Client.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T20:27:11.072Z",
+              "WhenOpened": "2026-04-23T16:31:17.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Server-Settings.cs",
-              "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Server-Settings.cs",
-              "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Server-Settings.cs",
-              "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Server-Settings.cs",
-              "RelativeToolTip": "TAKS\u0130T TAK\u0130P\\Server-Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Form3.cs",
+              "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Form3.cs",
+              "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TAKS\u0130T TAK\u0130P\\Form3.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T20:27:21.407Z",
+              "WhenOpened": "2026-04-23T16:31:01.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Login.cs",
+              "RelativeDocumentMoniker": "TAKS\u0130T TAK\u0130P\\Login.cs",
+              "ToolTip": "Y:\\TAKS\u0130T TAK\u0130P\\TAKS\u0130T TAK\u0130P\\Login.cs*",
+              "RelativeToolTip": "TAKS\u0130T TAK\u0130P\\Login.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T21:36:04.205Z",
               "EditorCaption": ""
             }
           ]

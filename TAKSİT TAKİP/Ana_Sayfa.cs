@@ -23,7 +23,7 @@ namespace TAKSİT_TAKİP
 
         private void çıkışToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new Form1().Show();
+            new Login().Show();
             this.Hide();
         }
 

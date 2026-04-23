@@ -46,7 +46,7 @@ app.MapPost("/api/login", (LoginRequest req) =>
     return Results.BadRequest(new { hata = sonuc });
 });
 
-app.MapPost("/api/Kayıt", (KayıtRequest req) =>
+app.MapPost("/api/Kayit", (KayıtRequest req) =>
 {
     if (req == null)
         return Results.BadRequest(new { mesaj = "Geçersiz istek" });
@@ -75,14 +75,14 @@ try
     NetworkStream stream = homeClient.GetStream();
     await stream.WriteAsync(data, 0, data.Length);
 
-    Console.WriteLine("HOME SUNUCUYA BAĞLANDI ✅");
+    Console.WriteLine("HOME SUNUCUYA BAĞLANDI ");
 }
 catch (Exception ex)
 {
     Console.WriteLine("HOME BAĞLANTI HATASI: " + ex.Message);
 }
 
-app.Run();
+app.Run(); 
 
 record LoginRequest(string Username, string Password);
 record KayıtRequest(string Date, Double Tutar, string Açıklama);
