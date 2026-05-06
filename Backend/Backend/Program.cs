@@ -58,6 +58,26 @@ app.UseAuthorization();
 
 #endregion
 
+#region HOME SERVER BAĞLANTI
+try
+{
+    var homeClient = new TcpClient();
+    await homeClient.ConnectAsync("127.0.0.1", 8586);
+
+    string tanitim = "GYM PRO";
+    byte[] data = Encoding.UTF8.GetBytes(tanitim);
+
+    NetworkStream stream = homeClient.GetStream();
+    await stream.WriteAsync(data, 0, data.Length);
+
+    Console.WriteLine("GYM-PRO SUNUCUYA BAĞLANDI");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"GYM-PRO BAĞLANTI HATASI: {ex.Message}");
+}
+#endregion
+
 #region ENDPOINTS
 
 // ==========================
@@ -66,26 +86,8 @@ app.UseAuthorization();
 app.MapControllers();
 
 #endregion
+
 #region LOGİN
 //Login Buraya
-#endregion
-#region HOME SERVER BAĞLANTI
-try
-{
-    var homeClient = new TcpClient();
-await homeClient.ConnectAsync("127.0.0.1", 8587);
-
-string tanitim = "GYM PRO";
-byte[] data = Encoding.UTF8.GetBytes(tanitim);
-
-NetworkStream stream = homeClient.GetStream();
-await stream.WriteAsync(data, 0, data.Length);
-
-Console.WriteLine("GYM-PRO SUNUCUYA BAĞLANDI");
-}
-catch (Exception ex)
-{
-    Console.WriteLine($"GYM-PRO BAĞLANTI HATASI: {ex.Message}");
-}
 #endregion
 app.Run();
