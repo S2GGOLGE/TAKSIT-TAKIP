@@ -1,4 +1,4 @@
-﻿namespace Backend.LoginHelpers
+﻿namespace Backend.Helpers
 {
     public class LoginHelpers
     {

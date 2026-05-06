@@ -1,5 +1,7 @@
 using Backend.LoginDto;
 using Backend.SQL;
+using Backend.SingUp;
+using Backend.Controllers;
 using System.Net.Sockets;
 using System.Text;
 var builder = WebApplication.CreateBuilder(args);

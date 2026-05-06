@@ -1,6 +1,6 @@
 ﻿namespace Backend
 {
-    using Backend.LoginHelpers;
+    using Backend.Helpers;
     using Backend.SQL;
     public class LoginControllers
     {
